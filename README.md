@@ -4,7 +4,7 @@
 **Certification Target:** Microsoft AZ-104 — Azure Administrator  
 **Timeline:** 30-day aggressive lab program  
 **Environment:** Azure Free Account | PowerShell on macOS | portal.azure.com  
-**Background:** 100% P&T Veteran | AZ-900 Certified | Transitioning into Cloud/SOC roles  
+**Background:** A+ NET+ SEC+ | AZ-900 Certified | Transitioning into Cloud/SOC roles  
 
 ---
 
