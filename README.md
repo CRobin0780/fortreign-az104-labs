@@ -12,7 +12,7 @@
 
 | # | Lab | Status | Completed |
 |---|-----|--------|-----------|
-| 01 | Virtual Networks + Subnets | 🔄 In Progress | 2026-03-11 |
+| 01 | Virtual Networks + Subnets | ✅ Complete | 2026-03-11 |
 | 02 | NSGs — Rules, Association, Testing | ⏳ Pending | - |
 | 03 | Public IPs + Network Interfaces | ⏳ Pending | - |
 | 04 | VM Deployment (Portal + PowerShell) | ⏳ Pending | - |
