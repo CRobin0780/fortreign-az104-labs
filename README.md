@@ -4,7 +4,7 @@
 **Certification Target:** Microsoft AZ-104 — Azure Administrator  
 **Timeline:** 30-day aggressive lab program  
 **Environment:** Azure Free Account | PowerShell on macOS | portal.azure.com  
-**Background:** **Background:** U.S. Veteran | CompTIA A+ | CompTIA Network+ | CompTIA Security+ | AZ-900 | AZ-104 In Progress | Transitioning into Cloud & Security roles 
+**Background:** U.S. Veteran | CompTIA A+ | CompTIA Network+ | CompTIA Security+ | AZ-900 | AZ-104 In Progress | Transitioning into Cloud & Security roles 
 
 ---
 

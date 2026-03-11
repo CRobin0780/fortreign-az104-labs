@@ -1,7 +1,7 @@
 # Lab 01 — Command Output Log
 
 **Date:** 2026-03-11  
-**Analyst:** Chris Robinson (Kai)  
+**Analyst:** Chris Robinson
 **Environment:** RG-AZ104-LAB | eastus | fortreign.soc@outlook.com  
 
 ---
