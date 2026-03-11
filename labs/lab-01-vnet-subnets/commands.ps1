@@ -2,7 +2,7 @@
 # Lab 01 — Virtual Networks and Subnets
 # AZ-104 Domain: Implement & Manage Virtual Networking (25%)
 # Date: 2026-03-11
-# Analyst: Chris Robinson (Kai)
+# Analyst: Chris Robinson
 # Environment: RG-AZ104-LAB | eastus | fortreign.soc@outlook.com
 # ============================================================
 
