@@ -1,6 +1,6 @@
 # Fort Reign — AZ-104 Azure Administrator Lab Portfolio
 
-**Analyst:** Chris Robinson (Kai)  
+**Analyst:** Chris Robinson  
 **Certification Target:** Microsoft AZ-104 — Azure Administrator  
 **Timeline:** 30-day aggressive lab program  
 **Environment:** Azure Free Account | PowerShell on macOS | portal.azure.com  
